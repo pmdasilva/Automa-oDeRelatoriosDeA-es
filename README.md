@@ -1,7 +1,5 @@
 # Automacao De Relatorios De Acoes
 
-# Automação de Relatorios para ações
-
 ## Estrutura do Projeto
 
 - Buscar as informações da ação automaticamente.
